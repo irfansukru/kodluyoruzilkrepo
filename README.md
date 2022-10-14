@@ -19,3 +19,9 @@
 # License
 
 [MIT](http://choosealicense.com/licenses/mit/)
+
+
+# Additional
+
+
+![Target Plan](C:\Users\admi\Documents\sites\HakanYalcinkaya frontend eğitim içeriği.jpg)
