@@ -1,24 +1,21 @@
-# kodluyoruzilkrepo
-[Kodluyoruz Eğitimi kapsamında açtığım ilk repo](https://app.patika.dev/courses/git/odev1)
+# Kodluyoruz Ilk Repo
 
-#Kodluyoruz Ilk Repo
+*Bu repo [Kodluyoruz](https://app.patika.dev/courses/git/odev1) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.*
 
-*Bu repo [Kodluyoruz](https://app.patika.dev/courses/git/odev1) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-
-##Installation
+## Installation
 
 [Öncelikle projeyi clonelayın.](https://github.com/irfansukru/kodluyoruzilkrepo.git)
 
-##Usage
+## Usage
 
-*Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+*Projeyi cloneladıktan sonra Visual Studio Code programında açınız.*
 
 [Linux için](cd kodluyoruzilkrepo code .)
 
-#Contributing
+# Contributing
 
-*Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+*Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.*
 
-#License
+# License
 
 [MIT](http://choosealicense.com/licenses/mit/)
